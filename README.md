@@ -1,14 +1,22 @@
-# Custom Pet Stickers
+# Artheart — Personalised Chibi Dog Stickers
 
-A responsive one-product storefront for custom chibi-style pet sticker art. No paid hosting or build step required.
+Static, responsive, one-product landing page. No build step, paid dependencies or external tracking. Open `index.html` in a browser or deploy the directory to a static host that permits commercial sites.
 
-## Publish on GitHub Pages
-Go to **Settings → Pages** → **Build and deployment** → **Deploy from a branch** → **main** → **/(root)** → **Save**.
+## Current sales flow
 
-Site: https://artheartdesign-spec.github.io/custompetstickers/
+The A$19 button starts an email enquiry to `artheartearthart@icloud.com`. **This is not a functioning payment checkout or photo upload.** Confirm a secure photo submission method, delivery turnaround, file formats, and payment method before taking orders. Do not claim instant fulfilment.
 
-## Customer enquiries
-The form opens a pre-filled email addressed to `artheartearthart@icloud.com`. Customers manually attach their pet photos and send the email. No photos are uploaded to the website. No payments are collected yet. Do not present the form as a checkout.
+## Assets
 
-## Before taking payments
-Confirm your offer, pricing, number of stickers, allowed usage, delivery timelines and secure payment provider. Replace illustrations used as demonstration assets with the approved original portfolio artwork as desired.
+Example photographs and illustrations were provided by the business owner. The individual illustration screenshots include a checkerboard pattern *within the image*; they are not transparent production-ready sticker files. Replace with real transparent PNGs before customer delivery. The website uses these only as visual examples.
+
+## Before launch
+
+1. Connect a real checkout and secure photo-upload workflow (or retain email enquiry for manual orders).
+2. Verify artwork usage rights, product terms, refund/consumer-law obligations, privacy notice and actual delivery specifications.
+3. Configure canonical URL and absolute Open Graph image after domain is chosen; submit sitemap when published.
+4. Test on iPhone and desktop, and test a complete real order.
+
+## SEO
+
+Descriptive title and meta description, alt text, semantic headings, Product structured data (marked preorder), mobile layout, and FAQ content. No fabricated reviews, rankings, sales claims or search volumes.
